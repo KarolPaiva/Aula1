@@ -1,2 +1,2 @@
 # Aula1
-Aua pra aprender a usar o GitHub
+Aula pra aprender a usar o GitHub
